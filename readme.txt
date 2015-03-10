@@ -1,6 +1,6 @@
-=== Plugin Name ===
+=== HTTPS Thumbnails ===
 Contributors: mkokes
-License: GPLv3
+License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl.html
 Tags: Thumbnails,SSL,HTTPS
 Requires at least: 3.2.0
